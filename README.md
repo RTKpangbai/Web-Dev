@@ -65,11 +65,7 @@ Web-Dev/
 
 No installation, dependencies, or build steps required.
 
-## Screenshots
 
-*(Add screenshots of the login page, home page, and product pages here for better presentation on GitHub)*
-
-## Author
 
 Student Web Development Project — 2024
 
